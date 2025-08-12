@@ -83,3 +83,4 @@ The company-wide average Customer Acquisition Cost (CAC) for 2024 is **230.42** 
 ## Notes
 - Average computed from quarterly values: (229.04 + 225.25 + 233.99 + 233.39) / 4 = **230.4175**, reported in README as **230.42**.
 
+Analysis generated with Jules (ChatGPT Codex): https://chatgpt.com/codex/tasks
